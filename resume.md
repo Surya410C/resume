@@ -29,7 +29,7 @@ Aggregate: 58 / 100
 Key Skills: Computer Networks
 Platform: NPTEL(National Programme on Technology Enhanced Learning)
 
-##PERSONAL INTERESTS / HOBBIES
+## PERSONAL INTERESTS / HOBBIES
 + Fitness and Sports: Regularly engage in fitness activities, such as going to the Gym and playing Cricket.
 Reading stories, Learning the concepts and applying on the related problems.
 

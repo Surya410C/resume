@@ -5,13 +5,11 @@ Hardworking and quick to adapt. Dedicated to delivering high-quality results in 
 where I can apply my knowledge and grow professionally.
 
 ### Key Expertise 
-+ Python
-+ AWS
-+ Javascript
-+ MongoDB
 + HTML
 + CSS
-+ DBMS
++ AWS
++ Python(basic)
++ MongoDB
 + Operating Systems
 + Computer Networking
 
@@ -27,11 +25,16 @@ where I can apply my knowledge and grow professionally.
 
 ## CERTIFICATIONS
 + Computer Networks and Internet Protocol
-+ Theory of Computation
-+ Python (Basic)
+Aggregate: 58 / 100
+Key Skills: Computer Networks
+Platform: NPTEL(National Programme on Technology Enhanced Learning)
+
+##PERSONAL INTERESTS / HOBBIES
++ Fitness and Sports: Regularly engage in fitness activities, such as going to the Gym and playing Cricket.
+Reading stories, Learning the concepts and applying on the related problems.
 
 
-### WEB LINKS(Contact)
+## WEB LINKS(Contact)
 + Github: [https://github.com/Surya410C](https://github.com/Surya410C)
 + Linkedin: [https://www.linkedin.com/in/surya-charann/](https://www.linkedin.com/in/surya-charann/)
 + Gmail : kapalasuryacharan@gmail.com
